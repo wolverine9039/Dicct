@@ -7,8 +7,8 @@ import Contact from './components/Contact/Contact';
 import Navbarmenu from './components/menu/Navbarmenu';
 import Callpaper from './components/CallForPlayer/Callpaper';
 import Footer from './components/Footer';
-import Advisiory from './components/Advisiory';
-import Organization from './components/Organization';
+import Advisiory from './components/Ad-Committe/Advisiory';
+import Organization from './components/Org-Committe/Organization';
 function App() {
   return (
    
